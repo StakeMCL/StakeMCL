@@ -1,4 +1,4 @@
-- 👋 Hi, This is @StakeMCL projects repository.
+- 👋 Hi, This is repository of @StakeMCL project.
 - 👀 What is StakeMCL?
 - It is a Staking Pool project for Marmara Chain's MCL coin.
 - This repo includes stkaing pool's ui codes. So people can review the code.
